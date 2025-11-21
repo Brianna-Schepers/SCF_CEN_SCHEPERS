@@ -234,7 +234,7 @@ class MessagingApp {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': `Bearer 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`
+                    'Authorization': `Bearer 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`
                 },
                 body: JSON.stringify({
                     model: "gpt-4o-mini",
